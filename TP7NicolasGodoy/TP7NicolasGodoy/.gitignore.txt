@@ -1,0 +1,52 @@
+# Archivos de Visual Studio
+.vs/
+*.user
+*.suo
+*.vscode/
+*.cache
+*.log
+
+# Archivos binarios y de compilación
+bin/
+obj/
+Debug/
+Release/
+TestResults/
+
+# Archivos de paquetes NuGet
+*.nupkg
+packages/
+project.lock.json
+
+# Archivos de configuración del sistema
+*.DS_Store
+Thumbs.db
+
+# Archivos de publicación
+publish/
+*.Publish.xml
+
+# Archivos de entorno
+.env
+
+# Archivos generados por el build
+*.dll
+*.exe
+*.pdb
+*.cache
+*.ilk
+*.lib
+*.log
+*.db
+
+# Carpetas específicas de un sistema operativo
+*.swp
+*.class
+*.pyc
+*.mypy_cache/
+.idea/
+
+# Otros archivos temporales
+~$*
+*.tmp
+*.bak
