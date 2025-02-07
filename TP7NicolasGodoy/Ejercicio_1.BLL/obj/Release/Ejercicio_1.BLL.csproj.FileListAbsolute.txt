@@ -1,0 +1,11 @@
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\bin\Release\Ejercicio_1.BLL.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\bin\Release\Ejercicio_1.BLL.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\bin\Release\Ejercicio_1.DAL.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\bin\Release\Ejercicio_1.Entities.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\bin\Release\Ejercicio_1.DAL.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\bin\Release\Ejercicio_1.Entities.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\obj\Release\Ejercicio_1.BLL.csproj.AssemblyReference.cache
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\obj\Release\Ejercicio_1.BLL.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\obj\Release\Ejercicio_1.BLL.csproj.CopyComplete
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\obj\Release\Ejercicio_1.BLL.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.BLL\obj\Release\Ejercicio_1.BLL.pdb

@@ -1,0 +1,45 @@
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.DAL.dll
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.DAL.pdb
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.Entities.dll
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.Entities.pdb
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.AssemblyReference.cache
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.CopyComplete
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.dll
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.DAL.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.DAL.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.Entities.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.Entities.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.AssemblyReference.cache
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.CopyComplete
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.DAL.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.DAL.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.Entities.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.Entities.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.AssemblyReference.cache
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.CopyComplete
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.pdb
+C:\Users\NiCoo\OneDrive\Escritorio\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.DAL.dll
+C:\Users\NiCoo\OneDrive\Escritorio\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.DAL.pdb
+C:\Users\NiCoo\OneDrive\Escritorio\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.Entities.dll
+C:\Users\NiCoo\OneDrive\Escritorio\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.Entities.pdb
+C:\Users\NiCoo\OneDrive\Escritorio\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.AssemblyReference.cache
+C:\Users\NiCoo\OneDrive\Escritorio\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.CoreCompileInputs.cache
+C:\Users\NiCoo\OneDrive\Escritorio\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.CopyComplete
+C:\Users\NiCoo\OneDrive\Escritorio\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.dll
+C:\Users\NiCoo\OneDrive\Escritorio\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.pdb
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.DAL.dll
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.DAL.pdb
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.Entities.dll
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\bin\Debug\Ejercicio_1.Entities.pdb
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.AssemblyReference.cache
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.csproj.CoreCompileInputs.cache
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercici.B0B2DCAC.Up2Date
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.dll
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.DAL\obj\Debug\Ejercicio_1.DAL.pdb

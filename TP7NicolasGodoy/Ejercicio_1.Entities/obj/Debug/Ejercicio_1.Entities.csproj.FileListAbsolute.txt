@@ -1,0 +1,23 @@
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.Entities\bin\Debug\Ejercicio_1.Entities.dll
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.Entities\bin\Debug\Ejercicio_1.Entities.pdb
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.csproj.AssemblyReference.cache
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.dll
+C:\Users\Nicolas Godoy\Desktop\TP5NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.Entities\bin\Debug\Ejercicio_1.Entities.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.Entities\bin\Debug\Ejercicio_1.Entities.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP5NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.Entities\bin\Debug\Ejercicio_1.Entities.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.Entities\bin\Debug\Ejercicio_1.Entities.pdb
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.csproj.AssemblyReference.cache
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.dll
+C:\Users\Nicolas Godoy\Desktop\COSAS DE CURSO (.NET WEB)\TP7NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.pdb
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.Entities\bin\Debug\Ejercicio_1.Entities.dll
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.Entities\bin\Debug\Ejercicio_1.Entities.pdb
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.csproj.AssemblyReference.cache
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.csproj.CoreCompileInputs.cache
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.dll
+D:\TP7NicolasGodoy\TP7NicolasGodoy\Ejercicio_1.Entities\obj\Debug\Ejercicio_1.Entities.pdb
